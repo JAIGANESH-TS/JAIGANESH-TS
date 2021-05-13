@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAIGANESH-M
-- 👀 I’m interested in TR->TENSORFLOW
+- 👀 I’m interested in TS->TENSORFLOW
 - 🌱 I’m currently learning DEEPLEARNING
 - 💞️ I’m looking to collaborate on ML/AI
 
